@@ -1,0 +1,40 @@
+{
+    "honda" : {
+        "civic" : {
+                "name" : "Honda Civic 2025",
+                "price" : "86.6 - 99.0 lacs",
+                "mileage" : "11 to 14",
+                "trnasmission" : "Automatic",
+                "fuelType" : "Petrol",
+                "engine" : "1498 cc",
+                "colors" : [
+                    {
+                        "name" : "silver",
+                        "image" : "https://cache4.pakwheels.com/system/car_generation_pictures/7370/original/Cover.jpg?1677570254"
+                    },
+                    {
+                        "name" : "black",
+                        "image" : "https://cache4.pakwheels.com/system/car_generation_pictures/7370/original/Cover.jpg?1677570254"
+                    }
+                ]
+            },
+            "city" : {
+                "name" : "Honda City 2025",
+                "price" : "46.6 - 59.0 lacs",
+                "mileage" : "12 to 16",
+                "trnasmission" : "Automatic & Mannual",
+                "fuelType" : "Petrol",
+                "engine" : "1199 cc to 1497 cc",
+                "colors" : [
+                    {
+                        "name" : "white",
+                        "image" : "https://cache1.pakwheels.com/system/car_generation_pictures/6425/original/Honda_City_Front.jpg?1651424945"
+                    },
+                    {
+                        "name" : "black",
+                        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcIzfzp-JXHrw-xyGXL5qvZQE5WdlRVIK7Ig&s"
+                    }
+                ]
+            }
+    }
+}
